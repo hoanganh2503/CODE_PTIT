@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"d:\\Code\\PTIT\\CODE_PTIT\\PYTHON_PTIT\\st\\thi\\4.py","tests":[{"id":1727874808120,"input":"ABd1234@1,a F1#,2w3E*,2We3345\t","output":""},{"id":1727874821326,"input":"aF1#,2w3E*\t","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\PTIT\\CODE_PTIT\\PYTHON_PTIT\\st\\thi\\4.py","group":"local","local":true}

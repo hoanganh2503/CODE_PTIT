@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"d:\\Code\\PTIT\\CODE_PTIT\\PYTHON_PTIT\\st\\thi\\2.py","tests":[{"id":1727875577266,"input":"2\njaccard\n1 4\n1 2\nmanhattan\n2 4 6\n2 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\PTIT\\CODE_PTIT\\PYTHON_PTIT\\st\\thi\\2.py","group":"local","local":true}

@@ -7,7 +7,7 @@ public class Main {
         ArrayList<DS> list = new ArrayList<DS>();
         while(sc.hasNextLine()){
             DS a = new DS(sc.nextLine(), sc.nextLine(), sc.nextLine(), sc.nextLine(), sc.nextLine());
-            list.add(a);
+             list.add(a);
         }
         Collections.sort(list);
         for(DS d : list) System.out.println(d);
